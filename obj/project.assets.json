@@ -11801,11 +11801,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\p0026241\\myWebApp\\myWebApp.csproj",
+      "projectUniqueName": "C:\\test\\webcore\\myWebApp.csproj",
       "projectName": "myWebApp",
-      "projectPath": "C:\\Users\\p0026241\\myWebApp\\myWebApp.csproj",
+      "projectPath": "C:\\test\\webcore\\myWebApp.csproj",
       "packagesPath": "C:\\Users\\p0026241\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\p0026241\\myWebApp\\obj\\",
+      "outputPath": "C:\\test\\webcore\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
